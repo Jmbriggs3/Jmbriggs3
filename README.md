@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jmbriggs3
 - 👀 I’m interested in all things development!
-- 🌱 I’m currently learning vanilla JS & react!
+- 🌱 I’m currently improving on my vanilla JS & react skills!
 - 📫 How to reach me --> Email: matosjeremiah3@gmail.com
 
 <!---
