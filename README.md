@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeremiah, I'm a self-taught career changer who has found a passion in creating/building projects!
+- 👋 Hi, I’m Jeremiah, I'm a self-taught career changer who has found a passion in creating/building projects!I am in the process of updating my personal website with my projects but that will be uploaded within the next week.
 - 👀 I’m interested in all things development but specifically HTML/Emails!
 - 🌱 I’m currently refining my vanilla JS and learning to use Figma!
 - Current skills: HTML, CSS (including OOCSS, SCSS, SASS, BEM), vanilla JS (ES6), VsCode, Git, Github, Linux(Ubuntu/Xubuntu OS) + terminal, Foundation for Emails 2, responsive design (media queries), Photoshop/Sketch, Litmus (have not worked with Email On Acid just yet!), Chrome DevTools, and MailChimp! 
